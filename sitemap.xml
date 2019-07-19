@@ -4,7 +4,7 @@
   <url>
     <loc>https://blog.daliansky.net/OpenCore-BootLoader.html</loc>
     
-    <lastmod>2019-07-12T09:20:57.950Z</lastmod>
+    <lastmod>2019-07-19T09:15:14.332Z</lastmod>
     
   </url>
   
@@ -37,20 +37,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.649Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.649Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/translate-guide-intel-igpu-hdmi-dp-audio-sandy-ivy-haswell-broadwell-skylake-kabylake.html</loc>
     
     <lastmod>2019-07-09T04:02:30.649Z</lastmod>
@@ -65,23 +51,16 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/XiaoMiPro-notebook-Installation-10.13-readily-remember-and-share-EFI.html</loc>
+    <loc>https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html</loc>
     
-    <lastmod>2019-07-09T04:02:30.648Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/HP-HP-ENVY-Laptop-13-ad1xx-Notebook-PC-Mac-OS-Note-and-EFI-Share.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.648Z</lastmod>
+    <lastmod>2019-07-09T04:02:30.649Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Scan-code-support-QQ-group-upgrade.html</loc>
+    <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
     
-    <lastmod>2019-07-09T04:02:30.648Z</lastmod>
+    <lastmod>2019-07-09T04:02:30.649Z</lastmod>
     
   </url>
   
@@ -107,7 +86,21 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Guide-High-Sierra-prohibits-APFS-conversion-when-installing-or-upgrading.html</loc>
+    <loc>https://blog.daliansky.net/HP-HP-ENVY-Laptop-13-ad1xx-Notebook-PC-Mac-OS-Note-and-EFI-Share.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.648Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/XiaoMiPro-notebook-Installation-10.13-readily-remember-and-share-EFI.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.648Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Scan-code-support-QQ-group-upgrade.html</loc>
     
     <lastmod>2019-07-09T04:02:30.648Z</lastmod>
     
@@ -121,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html</loc>
+    <loc>https://blog.daliansky.net/Guide-High-Sierra-prohibits-APFS-conversion-when-installing-or-upgrading.html</loc>
     
-    <lastmod>2019-07-09T04:02:30.647Z</lastmod>
+    <lastmod>2019-07-09T04:02:30.648Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Use-HIDPI-to-solve-sleep-wake-up-black-screen,-Huaping-and-connect-the-external-monitor-the-correct-posture.html</loc>
+    <loc>https://blog.daliansky.net/A-command-to-teach-you-how-to-confirm-their-own-models-and-how-to-open-the-HWP.html</loc>
     
     <lastmod>2019-07-09T04:02:30.647Z</lastmod>
     
@@ -149,21 +142,35 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/A-command-to-teach-you-how-to-confirm-their-own-models-and-how-to-open-the-HWP.html</loc>
+    <loc>https://blog.daliansky.net/Use-HIDPI-to-solve-sleep-wake-up-black-screen,-Huaping-and-connect-the-external-monitor-the-correct-posture.html</loc>
     
     <lastmod>2019-07-09T04:02:30.647Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html</loc>
+    <loc>https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.647Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html</loc>
     
     <lastmod>2019-07-09T04:02:30.646Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html</loc>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A391-official-version-with-Clover-4674-original-image.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.646Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
     
     <lastmod>2019-07-09T04:02:30.646Z</lastmod>
     
@@ -184,14 +191,7 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.646Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A391-official-version-with-Clover-4674-original-image.html</loc>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html</loc>
     
     <lastmod>2019-07-09T04:02:30.646Z</lastmod>
     
@@ -205,6 +205,13 @@
   </url>
   
   <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.645Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G2112-Release-Special-with-Clover-4606-original-mirror.html</loc>
     
     <lastmod>2019-07-09T04:02:30.645Z</lastmod>
@@ -212,14 +219,7 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.645Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html</loc>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13GM-17A362a-and-clover-4207-original-mirror.html</loc>
     
     <lastmod>2019-07-09T04:02:30.645Z</lastmod>
     
@@ -240,9 +240,23 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13GM-17A362a-and-clover-4207-original-mirror.html</loc>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html</loc>
     
     <lastmod>2019-07-09T04:02:30.645Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.644Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Fresh-installing-macOS-High-Sierra(10.13)-on-AMD-Ryzen-Hackintosh-Guide.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.644Z</lastmod>
     
   </url>
   
@@ -255,34 +269,6 @@
   
   <url>
     <loc>https://blog.daliansky.net/CoffeeLake-UHD-630-black-screen-direct-bright-screen-and-correct-adjustment-of-brightness-adjustment.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.644Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.5-17F77-Release-Version-with-Clover-4512-original-mirror.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.644Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.644Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.4-17E199-Release-Version-and-Clover-4418-Original-Image.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.644Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Fresh-installing-macOS-High-Sierra(10.13)-on-AMD-Ryzen-Hackintosh-Guide.html</loc>
     
     <lastmod>2019-07-09T04:02:30.644Z</lastmod>
     
@@ -303,6 +289,20 @@
   </url>
   
   <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.4-17E199-Release-Version-and-Clover-4418-Original-Image.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.644Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.5-17F77-Release-Version-with-Clover-4512-original-mirror.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.644Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
     
     <lastmod>2019-07-09T04:02:30.643Z</lastmod>
@@ -310,14 +310,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
     
     <lastmod>2019-07-09T04:02:30.643Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
+    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
     
     <lastmod>2019-07-09T04:02:30.643Z</lastmod>
     
@@ -338,28 +338,7 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.642Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.642Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.642Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
     
     <lastmod>2019-07-09T04:02:30.642Z</lastmod>
     
@@ -373,7 +352,28 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
+    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.642Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.642Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.642Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/MacOS-use-the-dd-command-to-make-Ubuntu-install-USB-disk.html</loc>
     
     <lastmod>2019-07-09T04:02:30.641Z</lastmod>
     
@@ -387,21 +387,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Slide-value-acquisition-and-calculation.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.641Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/MacOS-use-the-dd-command-to-make-Ubuntu-install-USB-disk.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.641Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.641Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
     
     <lastmod>2019-07-09T04:02:30.641Z</lastmod>
     
@@ -415,21 +408,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    <loc>https://blog.daliansky.net/Slide-value-acquisition-and-calculation.html</loc>
     
-    <lastmod>2019-07-09T04:02:30.640Z</lastmod>
+    <lastmod>2019-07-09T04:02:30.641Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.640Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Method-for-correctly-configuring-HTTP-forced-HTTPS-in-LNMP-environment.html</loc>
     
     <lastmod>2019-07-09T04:02:30.640Z</lastmod>
     
@@ -450,6 +436,13 @@
   </url>
   
   <url>
+    <loc>https://blog.daliansky.net/Method-for-correctly-configuring-HTTP-forced-HTTPS-in-LNMP-environment.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.640Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/Mac-Sierra-and-High-Sierra-Installer-App-Download.html</loc>
     
     <lastmod>2019-07-09T04:02:30.640Z</lastmod>
@@ -457,7 +450,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
+    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.640Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Existing-Lilu-Plugins.html</loc>
     
     <lastmod>2019-07-09T04:02:30.639Z</lastmod>
     
@@ -471,6 +471,13 @@
   </url>
   
   <url>
+    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.639Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html</loc>
     
     <lastmod>2019-07-09T04:02:30.639Z</lastmod>
@@ -478,35 +485,7 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Existing-Lilu-Plugins.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.639Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.638Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/CPUFriend-Installation-and-Usage.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.638Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/AppleALC-Supported-codecs.html</loc>
-    
-    <lastmod>2019-07-09T04:02:30.638Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Broadcom-WiFi-BlueTooth-BCM94352z-DW1560-the%20correct-drive-posture.html</loc>
+    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
     
     <lastmod>2019-07-09T04:02:30.638Z</lastmod>
     
@@ -520,7 +499,28 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
+    <loc>https://blog.daliansky.net/AppleALC-Supported-codecs.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.638Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.638Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Broadcom-WiFi-BlueTooth-BCM94352z-DW1560-the%20correct-drive-posture.html</loc>
+    
+    <lastmod>2019-07-09T04:02:30.638Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/CPUFriend-Installation-and-Usage.html</loc>
     
     <lastmod>2019-07-09T04:02:30.638Z</lastmod>
     
@@ -548,13 +548,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Do-not-need-to-make-installation-disk-Teach-you-to-install-the-High-Sierra-system-on-another-MacOS-system-to-another-partition.html</loc>
-    
-    <lastmod>2017-08-28T03:08:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/How-macOS-Sierra-mid-operation-CORE-Keygen-breaks-down.html</loc>
     
     <lastmod>2017-08-28T03:08:02.000Z</lastmod>
@@ -570,6 +563,13 @@
   
   <url>
     <loc>https://blog.daliansky.net/macOS-High-Sierra-10-13DB6-17A334b-with-Clover-4160-original-mirror.html</loc>
+    
+    <lastmod>2017-08-28T03:08:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Do-not-need-to-make-installation-disk-Teach-you-to-install-the-High-Sierra-system-on-another-MacOS-system-to-another-partition.html</loc>
     
     <lastmod>2017-08-28T03:08:02.000Z</lastmod>
     
