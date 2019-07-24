@@ -562,8 +562,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>platform-id</tag>
         <tag>接口</tag>
+        <tag>platform-id</tag>
         <tag>显存</tag>
         <tag>显示器</tag>
       </tags>
@@ -942,11 +942,11 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>Lilu</tag>
         <tag>10.12</tag>
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>Lilu</tag>
         <tag>Plugins</tag>
         <tag>常见问题</tag>
         <tag>Clover</tag>
