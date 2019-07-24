@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.6-18G84-Release-version-with-Clover-5027-original-image.html</loc>
-    <lastmod>2019-07-23</lastmod>
+    <lastmod>2019-07-24</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html</loc>
     <lastmod>2019-07-23</lastmod>
@@ -76,16 +76,16 @@
     <loc>https://blog.daliansky.net/Modify-DSDT-to-achieve-power-display-method.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/With-VoodooHDA-comes-getdump-find-valid-nodes-and-paths.html</loc>
-    <lastmod>2019-07-09</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/Add-the-CLOVER-boot-to-the-correct-posture-of-the-UEFI-Boot-Option-Menu.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/XiaoMiPro-notebook-Installation-10.13-readily-remember-and-share-EFI.html</loc>
+    <loc>https://blog.daliansky.net/With-VoodooHDA-comes-getdump-find-valid-nodes-and-paths.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/HP-HP-ENVY-Laptop-13-ad1xx-Notebook-PC-Mac-OS-Note-and-EFI-Share.html</loc>
+    <lastmod>2019-07-09</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/XiaoMiPro-notebook-Installation-10.13-readily-remember-and-share-EFI.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Scan-code-support-QQ-group-upgrade.html</loc>
@@ -115,22 +115,22 @@
     <loc>https://blog.daliansky.net/macOS-Sierra-10-12-6-16G29-with-Clover-4133-original-mirror-with-multi-drive.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Fresh-installing-macOS-High-Sierra(10.13)-on-AMD-Ryzen-Hackintosh-Guide.html</loc>
-    <lastmod>2019-07-09</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/CoffeeLake-UHD-630-black-screen-direct-bright-screen-and-correct-adjustment-of-brightness-adjustment.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
+    <loc>https://blog.daliansky.net/Fresh-installing-macOS-High-Sierra(10.13)-on-AMD-Ryzen-Hackintosh-Guide.html</loc>
+    <lastmod>2019-07-09</lastmod>
+  </url>  <url>
     <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
+    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html</loc>
@@ -139,16 +139,16 @@
     <loc>https://blog.daliansky.net/Self-use-next-theme-custom-reference-format-table.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
-    <lastmod>2019-07-09</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/an-nginx-405-not-allowed-error-solution.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
+    <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
+    <lastmod>2019-07-09</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/clover-user-manual.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/hotpatch-detailed-solution.html</loc>
@@ -160,10 +160,10 @@
     <loc>https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Mac-frequently-used-to-the-command---continuous-update.html</loc>
+    <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
+    <loc>https://blog.daliansky.net/Mac-frequently-used-to-the-command---continuous-update.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Slide-value-acquisition-and-calculation.html</loc>
@@ -175,13 +175,13 @@
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Method-for-correctly-configuring-HTTP-forced-HTTPS-in-LNMP-environment.html</loc>
+    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/MacOS-multi-system-Bluetooth-device-automatically-connected.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    <loc>https://blog.daliansky.net/Method-for-correctly-configuring-HTTP-forced-HTTPS-in-LNMP-environment.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html</loc>
@@ -196,10 +196,10 @@
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html</loc>
+    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
+    <loc>https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/10-interesting-things-that-google.html</loc>
@@ -211,10 +211,10 @@
     <loc>https://blog.daliansky.net/AppleALC-Supported-codecs.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html</loc>
+    <loc>https://blog.daliansky.net/Broadcom-WiFi-BlueTooth-BCM94352z-DW1560-the%20correct-drive-posture.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Broadcom-WiFi-BlueTooth-BCM94352z-DW1560-the%20correct-drive-posture.html</loc>
+    <loc>https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/CPUFriend-Installation-and-Usage.html</loc>
