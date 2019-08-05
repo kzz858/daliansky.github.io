@@ -1,4 +1,4 @@
-https://blog.daliansky.net/macOS-Mojave-10.14.6-18G84-Release-version-with-Clover-5027-original-image.html
+https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html
 https://blog.daliansky.net/OpenCore-BootLoader.html
 https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
 https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
