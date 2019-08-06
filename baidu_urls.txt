@@ -4,7 +4,6 @@ https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clo
 https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
 https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html
 https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html
-https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html
 https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html
 https://blog.daliansky.net/Slide-value-acquisition-and-calculation.html
 https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html
@@ -18,3 +17,4 @@ https://blog.daliansky.net/macOS-Mojave-10.14-18A391-official-version-with-Clove
 https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html
 https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html
 https://blog.daliansky.net/macOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html
+https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html
