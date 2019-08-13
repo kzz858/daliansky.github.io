@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[DW1820A/BCM94350ZAE/BCM94356ZEPA50DX插入的正确姿势]]></title>
     <url>%2FDW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</url>
-    <content type="text"><![CDATA[前言随着 DW1830 / DW1560 价格的不断走高，能找到一款性价比超高的无线网卡对广大的 Hackintosher 来说就显得至关重要了。从几个月前我就开始尝试驱动 DW1820A ，WIFI 驱动没问题，但是蓝牙各种翻车各种摔。功夫不付有心人，在众多热心网友的不断努力下，终于解决了蓝牙固件无法上传的问题，也因此就有了这篇驱动教程。 为什么是 DW1820A新款部分笔记本只能塞下背面没有元器件的无线网卡，比如[联想小新Air 2018 IWL]，此为刚需价格：百元以内，不排除未来有涨价的可能规格/参数：DW1820A/BCM94350ZAEM.2 2230802.11ac 双频 支持2.4GHz/5GHz867MbpsBlueTooth 4.1操作系统：支持 macOS / Windows / linux 已知支持的设备信息Vendor: 14E4Device: 43A3Sub Vendor: 1028 or 106BSub Device: 0021 0023 驱动方法采用 AirportBrcmFixup 驱动注入参数以便于直接驱动 AirPortBrcm4360 而不是驱动 AirPort.BrcmNIC，这样做的好处就是避免某一天苹果不提供AirPortBrcm4350的支持，便于支持未来的系统，包括macOS Catalina等。 WIFI无线网卡将AirportBrcmFixup添加到/EFI/CLOVER/kexts/Other目录下config.plist 中添加引导参数：brcmfx-driver=1 brcmfx-country=#aDevices-&gt;Properties添加：在左侧Devices中添加：PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)在右侧分别添加：Properties Key*Properties ValueValue TypeAAPL,slot-nameWLANSTRINGcompatiblepci14e4,4353STRINGdevice_typeAirport ExtremeSTRINGmodelDW1820A (BCM4350) 802.11ac WirelessSTRINGnameAirportSTRING完成后的截图如下：至于这个PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)是如何获得的，我们需要搬出工具Hackintool完整的config.plist源码如下：123456789101112131415161718192021222324252627282930&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;&lt;plist version="1.0"&gt;&lt;dict&gt; &lt;key&gt;Boot&lt;/key&gt; &lt;dict&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;string&gt;brcmfx-driver=1 brcmfx-country=#a&lt;/string&gt; &lt;/dict&gt; &lt;key&gt;Devices&lt;/key&gt; &lt;dict&gt; &lt;key&gt;Properties&lt;/key&gt; &lt;dict&gt; &lt;key&gt;PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)&lt;/key&gt; &lt;dict&gt; &lt;key&gt;AAPL,slot-name&lt;/key&gt; &lt;string&gt;WLAN&lt;/string&gt; &lt;key&gt;compatible&lt;/key&gt; &lt;string&gt;pci14e4,4353&lt;/string&gt; &lt;key&gt;device_type&lt;/key&gt; &lt;string&gt;Airport Extreme&lt;/string&gt; &lt;key&gt;model&lt;/key&gt; &lt;string&gt;DW1820A (BCM4350) 802.11ac Wireless&lt;/string&gt; &lt;key&gt;name&lt;/key&gt; &lt;string&gt;Airport&lt;/string&gt; &lt;/dict&gt; &lt;/dict&gt; &lt;/dict&gt;&lt;/dict&gt;&lt;/plist&gt;请将该脚本合并到你的/EFI/CLOVER/config.plist中，不要直接替换至此，您可以重启电脑，以使DW1820A的WIFI可以正常工作。 BlueTooth蓝牙将【DW1820A蓝牙专用程序】 解压缩到/EFI/CLOVER/kexts/Other目录下，重启即可。 截图部分机型可能需要屏蔽针脚才能正常使用 店铺推荐： 参考及引用https://wikidevi.com/wiki/Dellhttps://wikidevi.com/wiki/Dell_Wireless_1820A_(DW1820A)Hervé 更新的Broadcom 4350:https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/nickhx 提供的蓝牙驱动：https://osxlatitude.com/forums/topic/11540-dw1820a-for-7490-help/?do=findComment&amp;comment=92833Acidanthera 维护的项目：OpenCorePkg lilu AirportBrcmFixup WhateverGreen VirtualSMC AppleALC MaciASL 等headkaze 提供的工具：hackintool BrcmPatchRAM]]></content>
+    <content type="text"><![CDATA[前言随着 DW1830 / DW1560 价格的不断走高，能找到一款性价比超高的无线网卡对广大的 Hackintosher 来说就显得至关重要了。从几个月前我就开始尝试驱动 DW1820A ，WIFI 驱动没问题，但是蓝牙各种翻车各种摔。功夫不付有心人，在众多热心网友的不断努力下，终于解决了蓝牙固件无法上传的问题，也因此就有了这篇驱动教程。 为什么是 DW1820A新款部分笔记本只能塞下背面没有元器件的无线网卡，比如[联想小新Air 2018 IWL]，此为刚需价格：百元以内，不排除未来有涨价的可能规格/参数：DW1820A/BCM94350ZAEM.2 2230802.11ac 双频 支持2.4GHz/5GHz867MbpsBlueTooth 4.1操作系统：支持 macOS / Windows / linux 已知支持的设备信息 WLAN:Vendor: 0x14E4Device: 0x43A3Sub Vendor: 1028 or 106BSub Device: 0021 0023 075a Bluetooth:Vendor ID: 0x0A5CProduct ID: 0x6412 0x6414 DW1820A设备信息整理Part NoManufacturerModuleWLANBT 4.1CN-0VW3T3Dell Wireless 1820A 802.11acBCM94350ZAE_21028:0021[0a5c:6412]CN-096JNTDell Wireless 1820A 802.11acBCM94350ZAE_21028:0021[0a5c:6412]CN-0VW3T3Dell Wireless 1820A 802.11acBCM94356ZEPA50DX_21028:0023[0a5c:6412]CN-08PKF4Dell Wireless 1820A 802.11acBCM94356ZEPA50DX_21028:0023[0a5c:6412]00JT494LenovoBCM94350ZAE_21028:075a[0a5c:6414] 驱动方法采用 AirportBrcmFixup 驱动注入参数以便于直接驱动 AirPortBrcm4360 而不是驱动 AirPort.BrcmNIC，这样做的好处就是避免某一天苹果不提供AirPortBrcm4350的支持，便于支持未来的系统，包括macOS Catalina等。 WLAN无线网卡将AirportBrcmFixup添加到/EFI/CLOVER/kexts/Other目录下config.plist 中添加引导参数：brcmfx-driver=1 brcmfx-country=#aDevices-&gt;Properties添加：在左侧Devices中添加：PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)在右侧分别添加：Properties Key*Properties ValueValue TypeAAPL,slot-nameWLANSTRINGcompatiblepci14e4,4353STRINGdevice_typeAirport ExtremeSTRINGmodelDW1820A (BCM4350) 802.11ac WirelessSTRINGnameAirportSTRING完成后的截图如下：至于这个PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)是如何获得的，我们需要搬出工具Hackintool完整的config.plist源码如下：123456789101112131415161718192021222324252627282930&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;&lt;plist version="1.0"&gt;&lt;dict&gt; &lt;key&gt;Boot&lt;/key&gt; &lt;dict&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;string&gt;brcmfx-driver=1 brcmfx-country=#a&lt;/string&gt; &lt;/dict&gt; &lt;key&gt;Devices&lt;/key&gt; &lt;dict&gt; &lt;key&gt;Properties&lt;/key&gt; &lt;dict&gt; &lt;key&gt;PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)&lt;/key&gt; &lt;dict&gt; &lt;key&gt;AAPL,slot-name&lt;/key&gt; &lt;string&gt;WLAN&lt;/string&gt; &lt;key&gt;compatible&lt;/key&gt; &lt;string&gt;pci14e4,4353&lt;/string&gt; &lt;key&gt;device_type&lt;/key&gt; &lt;string&gt;Airport Extreme&lt;/string&gt; &lt;key&gt;model&lt;/key&gt; &lt;string&gt;DW1820A (BCM4350) 802.11ac Wireless&lt;/string&gt; &lt;key&gt;name&lt;/key&gt; &lt;string&gt;Airport&lt;/string&gt; &lt;/dict&gt; &lt;/dict&gt; &lt;/dict&gt;&lt;/dict&gt;&lt;/plist&gt;请将该脚本合并到你的/EFI/CLOVER/config.plist中，不要直接替换至此，您可以重启电脑，以使DW1820A的WIFI可以正常工作。 Bluetooth蓝牙将【DW1820A蓝牙专用程序】 解压缩到/EFI/CLOVER/kexts/Other目录下，重启即可。 截图部分机型可能需要屏蔽针脚才能正常使用 店铺推荐：目前还在收集各种型号的网卡进行测试，待测试结束后推荐；同时也欢迎大家提供网卡信息。 参考及引用https://wikidevi.com/wiki/Dellhttps://wikidevi.com/wiki/Dell_Wireless_1820A_(DW1820A)Hervé 更新的Broadcom 4350:https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/nickhx 提供的蓝牙驱动：https://osxlatitude.com/forums/topic/11540-dw1820a-for-7490-help/?do=findComment&amp;comment=92833Acidanthera 维护的项目：OpenCorePkg lilu AirportBrcmFixup WhateverGreen VirtualSMC AppleALC MaciASL 等headkaze 提供的工具：hackintool BrcmPatchRAM]]></content>
       <categories>
         <category>教程</category>
       </categories>
@@ -22,9 +22,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>Mojave</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
+        <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.6</tag>
         <tag>18G84</tag>
@@ -54,9 +54,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>Mojave</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
+        <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.5</tag>
         <tag>18F132</tag>
@@ -71,9 +71,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>Mojave</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
+        <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.4</tag>
         <tag>1.8e+227</tag>
@@ -117,9 +117,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>Mojave</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
+        <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.3</tag>
         <tag>18D42</tag>
@@ -190,9 +190,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>Mojave</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
+        <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.2</tag>
         <tag>18C54</tag>
@@ -224,9 +224,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>Mojave</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
+        <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.1</tag>
         <tag>18B75</tag>
@@ -256,10 +256,10 @@
         <category>镜像</category>
       </categories>
       <tags>
+        <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>10.14</tag>
-        <tag>下载</tag>
-        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>18A391</tag>
       </tags>
@@ -272,12 +272,12 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>USB</tag>
         <tag>教程</tag>
         <tag>FB</tag>
         <tag>patcher</tag>
         <tag>framebuffer</tag>
         <tag>帧缓冲</tag>
+        <tag>USB</tag>
         <tag>audio</tag>
         <tag>VRAM</tag>
       </tags>
@@ -304,10 +304,10 @@
         <category>镜像</category>
       </categories>
       <tags>
+        <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>10.14</tag>
-        <tag>下载</tag>
-        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>17A389</tag>
       </tags>
@@ -366,8 +366,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G2112</tag>
@@ -383,8 +383,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G65</tag>
@@ -400,8 +400,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.5</tag>
         <tag>17F77</tag>
@@ -471,8 +471,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.4</tag>
         <tag>1.7e+200</tag>
@@ -502,8 +502,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -561,8 +561,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -676,8 +676,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.1</tag>
         <tag>17B48</tag>
@@ -795,8 +795,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>17A405</tag>
       </tags>
@@ -847,8 +847,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
       </tags>
   </entry>
@@ -875,8 +875,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>GM</tag>
         <tag>17A362a</tag>
@@ -891,10 +891,10 @@
       </categories>
       <tags>
         <tag>Lilu</tag>
-        <tag>CPUFriend</tag>
         <tag>Plugins</tag>
-        <tag>CPU变频</tag>
         <tag>插件</tag>
+        <tag>CPUFriend</tag>
+        <tag>CPU变频</tag>
       </tags>
   </entry>
   <entry>
@@ -956,11 +956,11 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>Lilu</tag>
         <tag>10.12</tag>
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>Lilu</tag>
         <tag>Plugins</tag>
         <tag>常见问题</tag>
         <tag>Clover</tag>
@@ -997,8 +997,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>DB9</tag>
         <tag>17A360a</tag>
         <tag>dmg</tag>
@@ -1012,13 +1012,13 @@
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>下载</tag>
         <tag>10.12.6</tag>
         <tag>Mojave</tag>
         <tag>10.14</tag>
         <tag>Catalina</tag>
         <tag>10.15</tag>
         <tag>Download</tag>
-        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -1060,8 +1060,8 @@
       </categories>
       <tags>
         <tag>10.13</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>DB8</tag>
         <tag>17A358a</tag>
       </tags>
@@ -1089,9 +1089,9 @@
       </categories>
       <tags>
         <tag>10.13</tag>
-        <tag>下载</tag>
         <tag>DB7</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -1160,10 +1160,10 @@
       </categories>
       <tags>
         <tag>Sierra</tag>
-        <tag>10.12.6</tag>
         <tag>镜像</tag>
-        <tag>安装</tag>
+        <tag>10.12.6</tag>
         <tag>dmg</tag>
+        <tag>安装</tag>
       </tags>
   </entry>
   <entry>
@@ -1190,8 +1190,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>17A344b</tag>
       </tags>
