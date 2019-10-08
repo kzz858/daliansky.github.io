@@ -25,9 +25,9 @@
         <category>教程</category>
       </categories>
       <tags>
+        <tag>驱动</tag>
         <tag>DW1820A</tag>
         <tag>BCM94350ZAE</tag>
-        <tag>驱动</tag>
       </tags>
   </entry>
   <entry>
@@ -119,8 +119,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>核显</tag>
         <tag>教程</tag>
+        <tag>核显</tag>
         <tag>HDMI</tag>
         <tag>Hackintool</tag>
       </tags>
@@ -593,8 +593,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>接口</tag>
         <tag>platform-id</tag>
+        <tag>接口</tag>
         <tag>显存</tag>
         <tag>显示器</tag>
       </tags>
@@ -922,13 +922,13 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>驱动</tag>
         <tag>DW1560</tag>
         <tag>BCM94352z</tag>
         <tag>10.12</tag>
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>驱动</tag>
         <tag>WIFI</tag>
       </tags>
   </entry>
@@ -953,13 +953,13 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>驱动</tag>
         <tag>DW1560</tag>
         <tag>BCM94352z</tag>
         <tag>10.12</tag>
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>驱动</tag>
         <tag>WIFI</tag>
         <tag>蓝牙</tag>
         <tag>BlueTooth</tag>
@@ -973,12 +973,12 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>Lilu</tag>
-        <tag>Plugins</tag>
         <tag>10.12</tag>
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>Lilu</tag>
+        <tag>Plugins</tag>
         <tag>常见问题</tag>
         <tag>Clover</tag>
         <tag>platform-id</tag>
@@ -1078,9 +1078,9 @@
       <tags>
         <tag>10.13</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>DB8</tag>
         <tag>17A358a</tag>
-        <tag>镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1107,8 +1107,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>下载</tag>
-        <tag>镜像</tag>
         <tag>DB7</tag>
+        <tag>镜像</tag>
       </tags>
   </entry>
   <entry>
