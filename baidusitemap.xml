@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.daliansky.net/Broadcom-WiFi-BlueTooth-BCM94352z-DW1560-the%20correct-drive-posture.html</loc>
+    <loc>https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</loc>
+    <lastmod>2019-10-08</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html</loc>
+    <lastmod>2019-10-08</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/OpenCore-BootLoader.html</loc>
+    <lastmod>2019-10-08</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html</loc>
+    <lastmod>2019-10-08</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
+    <lastmod>2019-09-23</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</loc>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
+    <lastmod>2019-09-04</lastmod>
+  </url>  <url>
+    <loc>https://blog.daliansky.net/Broadcom-WiFi-BlueTooth-BCM94352z-DW1560-the%20correct-drive-posture.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/MacOS-use-the-dd-command-to-make-Ubuntu-install-USB-disk.html</loc>
@@ -22,16 +40,13 @@
     <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13-official-version-update-17A405-with-Clover-4238-original-mirror.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html</loc>
-    <lastmod>2019-09-04</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/With-VoodooHDA-comes-getdump-find-valid-nodes-and-paths.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html</loc>
+    <loc>https://blog.daliansky.net/translate-guide-intel-igpu-hdmi-dp-audio-sandy-ivy-haswell-broadwell-skylake-kabylake.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/translate-guide-intel-igpu-hdmi-dp-audio-sandy-ivy-haswell-broadwell-skylake-kabylake.html</loc>
+    <loc>https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html</loc>
@@ -40,13 +55,7 @@
     <loc>https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
-    <lastmod>2019-09-04</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A391-official-version-with-Clover-4674-original-image.html</loc>
-    <lastmod>2019-09-04</lastmod>
-  </url>  <url>
-    <loc>https://blog.daliansky.net/OpenCore-BootLoader.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Updated-Frequently-Asked-Questions-in-Sierra-or-high-sierra.html</loc>
@@ -94,9 +103,6 @@
     <loc>https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
-    <lastmod>2019-09-04</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
@@ -130,13 +136,13 @@
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
+    <loc>https://blog.daliansky.net/A-command-to-teach-you-how-to-confirm-their-own-models-and-how-to-open-the-HWP.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/A-command-to-teach-you-how-to-confirm-their-own-models-and-how-to-open-the-HWP.html</loc>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
     <lastmod>2019-09-04</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/Use-HIDPI-to-solve-sleep-wake-up-black-screen,-Huaping-and-connect-the-external-monitor-the-correct-posture.html</loc>
@@ -160,9 +166,6 @@
     <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
     <lastmod>2019-08-07</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
-    <lastmod>2019-08-06</lastmod>
-  </url>  <url>
     <loc>https://blog.daliansky.net/AppleALC-Supported-codecs.html</loc>
     <lastmod>2019-08-01</lastmod>
   </url>  <url>
@@ -178,10 +181,10 @@
     <loc>https://blog.daliansky.net/Self-use-next-theme-custom-reference-format-table.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
+    <loc>https://blog.daliansky.net/an-nginx-405-not-allowed-error-solution.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://blog.daliansky.net/an-nginx-405-not-allowed-error-solution.html</loc>
+    <loc>https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
     <loc>https://blog.daliansky.net/hda-verb-parameter-detail-table.html</loc>
