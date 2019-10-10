@@ -3,13 +3,13 @@
   <entry>
     <title><![CDATA[【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5093原版镜像[双EFI版]]]></title>
     <url>%2FmacOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html</url>
-    <content type="text"><![CDATA[【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5093原版镜像[双EFI版] macOS Catalina正式版Mac 上你喜爱的一切，都因 macOS Catalina 而变得更精彩。你可以享用两款全新媒体 app；用新的查找 app 定位遗失的 Mac；而你常用的 iPad app 现在也有了 Mac 版。你甚至可以将 iPad 当作第二个显示屏，扩展桌面空间。现在，无论做什么，你将拥有远超以往的体验 Apple Music• 订阅 Apple Music，在线聆听并下载上千万首歌曲。• 优化后的资料库井然有序，轻松查找你所有下载的或从 CD 导入的音乐。 Apple 播客• 通过节目的名称、主题、嘉宾、主持人或内容搜索播客。• 订阅喜爱的播客，自动接收上新通知。• 你可以在 Mac 上开始听一集节目，然后随时利用 iPhone、iPad 或 Apple Watch 继续收听。 同步与备份• 当 iPhone 或 iPad 连接上 Mac 时，可在访达中同步内容，进行备份、更新，或恢复软件。 Mac Catalyst• 你现在可以在 Mac 上，畅享多款你常用 iPad app 的 Mac 版。 随航Sidecar• 将你的 iPad 用作 Mac 的第二个显示屏，从而扩展工作空间。• 可在每个屏幕上各运行一个 app；也可在 iPad 上使用工具和调色板，在 Mac 上进行绘画创作。• 操作你常用的创意类专业 Mac app 时，以 Apple Pencil 在平板电脑上进行输入。 速绘和标记支持连续互通• 在 iPad 或 iPhone 上进行速绘，然后将其插入到 Mac 的任何文档中。• 使用 iPad 或 iPhone 来签署 Mac 上的 PDF 或标记 Mac 上的截屏。 辅助功能• 利用语音控制功能，通过你的语音全权掌控 Mac。• 启用悬停文本，可在一个专用窗口里显示高分辨率大字体。• 当使用两个屏幕时，利用放大显示功能，可将其中一个屏幕上的内容放大，以便阅读。 安全性• 你所用的 app 均已由 Apple 事先检查是否含有已知恶意软件，让你安心使用。• 当 app 要求访问数据时，将基于新的数据保护功能进行授权。 查找• 借助简单易用的新 app，追踪你的设备或寻找亲友。• 即使设备未连接无线局域网或蜂窝网络，也能帮你定位。• 可使用激活锁，保护搭载 Apple T2 安全芯片的 Mac 机型。 照片• 呈现你的精彩照片和回忆，带给你活泼生动、引人入胜的新体验。• 浏览“回忆影片”，更可编辑影片时长、风格和标题。 Safari 浏览器• 使用优化的起始页面浏览历史记录、书签、阅读列表、iCloud 标签页中显示的站点，甚至你在信息 app 中收到的链接。• 使用 Safari 浏览器建议的强密码，有助保护账户安全。 备忘录• 在画廊视图中，浏览以缩略图呈现的备忘录。• 尽享更强大的搜索功能，可识别扫描件中的文字和图像中的物体。• 使用共享文件夹，可分享整个备忘录文件夹。• 轻松地将核对清单项目重新排序或缩进排版，并自动将已完成的项目移动到底部。 提醒事项• 使用新的编辑按钮，为提醒事项添加日期、位置、旗标和附件等。• 智能列表可自动整理并显示临近的提醒事项，方便你及时跟进。 邮件• 通过邮件主题静音、屏蔽发件人或从商业推广列表中取消订阅，全权掌控你的收件箱。 屏幕使用时间• 透彻了解在 app 和网站上花费的时间，并设定使用限额。• 设置家人共享，为家人的设备设定屏幕使用时间。 镜像靓点：Clover默认配置文件config.plist原则上支持各种机型引导安装；更新CLOVER到v2.5k r5093新增PE引导分区，同时支持CLOVER / PE双引导驱动更新更新lilu v1.3.8更新AppleALC v1.4.2更新WhatEverGreen v1.3.2，根本上解决紫条问题去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；本镜像采用官方原版app制作，集成Clover 5093，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于 drivers/off；300系列主板请于drivers64UEFI目录中移除AptioMemoryFix-64.efi添加OsxAptioFix2Drv-free2000.efi该驱动位于/EFI/CLOVER/drivers/off目录下 或者 Slide值获取及计算Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Mojave 10.14安装中常见的问题及解决方法;更新WhateverGreen到v1.3.2(9月7日编译)，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；核显驱动更多的教程请参考：Hackintool(原Intel FB-Patcher)使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理 教程：利用Hackintool打开第8代核显HDMI输出的正确姿势其它机型的配置文件统一保存到config-Other目录下，请自行复制相应机型配置文件；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 Mojave硬件支持列表HD3000驱动方法请移步这里 安装教程简单版安装过程（简易版）：详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12# md5 macOS\ Catalina\ 10.15\(19A583\)\ Installer\ for\ Clover\ 5093\ and\ WEPE.dmg # 空格以\ 代替MD5 (macOS Catalina 10.15(19A583) Installer for Clover 5093 and WEPE.dmg) = 30a9b1d40f0cabb8f8e46d6ea737d0e3Windows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可。Windows10需要以管理员权限运行安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.15安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Hackintool(原Intel FB-Patcher)使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理 教程：利用Hackintool打开第8代核显HDMI输出的正确姿势声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：DW1820A/BCM94350ZAE/BCM94356ZEPA50DX插入的正确姿势 Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：远景：黑苹果长期维护机型资料整理(2019年3月1日更新) 或者 本站：黑苹果长期维护机型整理清单 ，如果你有自己机型的EFI也可以提交到这里支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图：结合了台式机和笔记本的截屏，仅供参考 特别感谢@宪武 提供的hotpatch的全套方法：适用于CLOVER 的 P-little ；适用于 OpenCore 的 OC-little 10.15 19A583 双EFI分区版下载链接迅雷离线下载：[请点击下载] 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源百毒云下载链接: https://pan.baidu.com/s/1zn75LCIld8_eMvYvtj0BmA 提取码: jcy21MD5 (macOS Catalina 10.15(19A583) Installer for Clover 5093 and WEPE.dmg) = 30a9b1d40f0cabb8f8e46d6ea737d0e3]]></content>
+    <content type="text"><![CDATA[【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5093原版镜像[双EFI版] macOS Catalina正式版Mac 上你喜爱的一切，都因 macOS Catalina 而变得更精彩。你可以享用两款全新媒体 app；用新的查找 app 定位遗失的 Mac；而你常用的 iPad app 现在也有了 Mac 版。你甚至可以将 iPad 当作第二个显示屏，扩展桌面空间。现在，无论做什么，你将拥有远超以往的体验 Apple Music• 订阅 Apple Music，在线聆听并下载上千万首歌曲。• 优化后的资料库井然有序，轻松查找你所有下载的或从 CD 导入的音乐。 Apple 播客• 通过节目的名称、主题、嘉宾、主持人或内容搜索播客。• 订阅喜爱的播客，自动接收上新通知。• 你可以在 Mac 上开始听一集节目，然后随时利用 iPhone、iPad 或 Apple Watch 继续收听。 同步与备份• 当 iPhone 或 iPad 连接上 Mac 时，可在访达中同步内容，进行备份、更新，或恢复软件。 Mac Catalyst• 你现在可以在 Mac 上，畅享多款你常用 iPad app 的 Mac 版。 随航Sidecar• 将你的 iPad 用作 Mac 的第二个显示屏，从而扩展工作空间。• 可在每个屏幕上各运行一个 app；也可在 iPad 上使用工具和调色板，在 Mac 上进行绘画创作。• 操作你常用的创意类专业 Mac app 时，以 Apple Pencil 在平板电脑上进行输入。 速绘和标记支持连续互通• 在 iPad 或 iPhone 上进行速绘，然后将其插入到 Mac 的任何文档中。• 使用 iPad 或 iPhone 来签署 Mac 上的 PDF 或标记 Mac 上的截屏。 辅助功能• 利用语音控制功能，通过你的语音全权掌控 Mac。• 启用悬停文本，可在一个专用窗口里显示高分辨率大字体。• 当使用两个屏幕时，利用放大显示功能，可将其中一个屏幕上的内容放大，以便阅读。 安全性• 你所用的 app 均已由 Apple 事先检查是否含有已知恶意软件，让你安心使用。• 当 app 要求访问数据时，将基于新的数据保护功能进行授权。 查找• 借助简单易用的新 app，追踪你的设备或寻找亲友。• 即使设备未连接无线局域网或蜂窝网络，也能帮你定位。• 可使用激活锁，保护搭载 Apple T2 安全芯片的 Mac 机型。 照片• 呈现你的精彩照片和回忆，带给你活泼生动、引人入胜的新体验。• 浏览“回忆影片”，更可编辑影片时长、风格和标题。 Safari 浏览器• 使用优化的起始页面浏览历史记录、书签、阅读列表、iCloud 标签页中显示的站点，甚至你在信息 app 中收到的链接。• 使用 Safari 浏览器建议的强密码，有助保护账户安全。 备忘录• 在画廊视图中，浏览以缩略图呈现的备忘录。• 尽享更强大的搜索功能，可识别扫描件中的文字和图像中的物体。• 使用共享文件夹，可分享整个备忘录文件夹。• 轻松地将核对清单项目重新排序或缩进排版，并自动将已完成的项目移动到底部。 提醒事项• 使用新的编辑按钮，为提醒事项添加日期、位置、旗标和附件等。• 智能列表可自动整理并显示临近的提醒事项，方便你及时跟进。 邮件• 通过邮件主题静音、屏蔽发件人或从商业推广列表中取消订阅，全权掌控你的收件箱。 屏幕使用时间• 透彻了解在 app 和网站上花费的时间，并设定使用限额。• 设置家人共享，为家人的设备设定屏幕使用时间。 镜像靓点：Clover默认配置文件config.plist原则上支持各种机型引导安装；更新CLOVER到v2.5k r5093新增PE引导分区，同时支持CLOVER / PE双引导驱动更新更新lilu v1.3.8更新AppleALC v1.4.2更新WhatEverGreen v1.3.2，根本上解决紫条问题去除USB端口限制，减少禁行发生的几率；增加Lilu崩溃的日志信息显示；本镜像采用官方原版app制作，集成Clover 5093，支持UEFI启动安装;apfs.efi同时去除日志显示；其它的驱动位于 drivers/off；300系列主板请于drivers64UEFI目录中移除AptioMemoryFix-64.efi添加OsxAptioFix2Drv-free2000.efi该驱动位于/EFI/CLOVER/drivers/off目录下 或者 Slide值获取及计算Clover集成了本人修改的全新主题，不喜欢的可以于安装系统后自行替换；所有配置文件中默认添加Lilu崩溃日志的输出信息,详见：macOS Catalina 10.15安装中常见的问题及解决方法;更新WhateverGreen到v1.3.2(9月7日编译)，原生支持UHD620/UHD630等八代核显，不需要注入platform-id， 同时它也支持NVIDIA和AMD的显卡，以及整合了Shiki和CoreDisplayFixup的驱动，现在是All In One了；核显驱动更多的教程请参考：Hackintool(原Intel FB-Patcher)使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理 教程：利用Hackintool打开第8代核显HDMI输出的正确姿势其它机型的配置文件统一保存到config-Other目录下，请自行复制相应机型配置文件；其它配置文件包括：HD520/530/540，HD550/P530,HD5000/5100/5200/5300/5500/6000,HD4200/4400/4600；所有config配置文件都可通过Clover引导界面-Options-configs进行选择；不会操作的请移步：Clover使用教程 macOS安装教程 Mojave硬件支持列表HD3000驱动方法请移步这里 安装教程简单版安装过程（简易版）：详细的安装教程请移步：macOS安装教程下载镜像：黑果小兵的部落阁校验md5值：macOS：打开终端，输入命令：12# md5 macOS\ Catalina\ 10.15\(19A583\)\ Installer\ for\ Clover\ 5093\ and\ WEPE.dmg # 空格以\ 代替MD5 (macOS Catalina 10.15(19A583) Installer for Clover 5093 and WEPE.dmg) = 30a9b1d40f0cabb8f8e46d6ea737d0e3Windows下：请使用winmd5，将下载的安装镜像拖进winmd5窗口，核验md5值（截图略）镜像制作：下载etcher，打开镜像，选择U盘，点击Flash即可。Windows10需要以管理员权限运行安装macOS：安装过程中不要先替换EFI，等安装全部结果后再执行替换EFI的操作安装过程中出现问题请参考：clover使用教程 以及 macOS Mojave 10.15安装中常见的问题及解决方法安装后所需要执行的动作：合并和替换EFI 不借助任何工具将CLOVER引导添加进UEFI的正确姿势驱动：显卡、声卡、USB定制：Hackintool(原Intel FB-Patcher)使用教程及插入姿势 / 黑苹果必备：Intel核显platform ID整理及smbios速查表 / Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理 教程：利用Hackintool打开第8代核显HDMI输出的正确姿势声卡仿冒：使用AppleALC声卡仿冒驱动AppleHDA的正确姿势无线网卡：DW1820A/BCM94350ZAE/BCM94356ZEPA50DX插入的正确姿势 Broadcom BCM94352z/DW1560驱动新姿势新方法本镜像集成的EFI如果无法安装，请根据自己的机型寻找相应的EFI进行替换，请参考：远景：黑苹果长期维护机型资料整理(2019年3月1日更新) 或者 本站：黑苹果长期维护机型整理清单 ，如果你有自己机型的EFI也可以提交到这里支持Realtek8111/8100系列有线网卡，支持Intel板载有线网卡；其它的网卡驱动位于kexts/Other/其它驱动本镜像已经过本人安装测试，若您在使用中遇到问题，可通过爬楼自行解决。本人才疏学浅，所学知识都来自于远景社区，感谢远景各位大咖一直以来对 黑果小兵 的大力支持，由于人员众多，恕不一一列名致谢！挂载EFI分区Windows操作系统下面,以系统管理员身份打开cmd窗口,输入命令:123456789c:\&gt;diskpartlist disk # 磁盘列表select disk n # 选择EFI分区所在的磁盘，n为磁盘号list partition # 磁盘分区列表select partition n # 选择EFI分区，n为EFI分区号set id="ebd0a0a2-b9e5-4433-87c0-68b6b72699c7" # 设置为基本数据分区assign letter=X # x为EFI分区盘符exit # 退出diskpartnotepad # 打开记事本程序，点击文件-&gt;打开，即可访问EFI分区您可以重复输入命令同时挂载USB的EFI分区和磁盘的EFI分区另一种方法：直接 使用应用程序diskgenius挂载EFI分区进行操作本镜像发布站点：远景论坛 / 黑果小兵的部落阁 截图：结合了台式机和笔记本的截屏，仅供参考 特别感谢@宪武 提供的hotpatch的全套方法：适用于CLOVER 的 P-little ；适用于 OpenCore 的 OC-little 10.15 19A583 双EFI分区版下载链接迅雷离线下载：[请点击下载] 感谢@难忘情怀提供下载资源http下载链接:请点击下载 感谢@难忘情怀提供下载资源天翼云下载链接：https://cloud.189.cn/t/UZVNJjvaq6zq (访问码:6558)百毒云下载链接: https://pan.baidu.com/s/1zn75LCIld8_eMvYvtj0BmA 提取码: jcy21MD5 (macOS Catalina 10.15(19A583) Installer for Clover 5093 and WEPE.dmg) = 30a9b1d40f0cabb8f8e46d6ea737d0e3]]></content>
       <categories>
         <category>下载</category>
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>Mojave</tag>
+        <tag>Catalina</tag>
         <tag>10.15</tag>
         <tag>下载</tag>
         <tag>镜像</tag>
@@ -119,8 +119,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>核显</tag>
+        <tag>教程</tag>
         <tag>HDMI</tag>
         <tag>Hackintool</tag>
       </tags>
@@ -289,12 +289,12 @@
         <category>教程</category>
       </categories>
       <tags>
+        <tag>USB</tag>
         <tag>教程</tag>
         <tag>FB</tag>
         <tag>patcher</tag>
         <tag>framebuffer</tag>
         <tag>帧缓冲</tag>
-        <tag>USB</tag>
         <tag>audio</tag>
         <tag>VRAM</tag>
       </tags>
@@ -365,9 +365,9 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>framebuffer</tag>
         <tag>Mojave</tag>
         <tag>10.14</tag>
+        <tag>framebuffer</tag>
         <tag>10.13.6</tag>
         <tag>17G2112</tag>
         <tag>patch</tag>
@@ -593,8 +593,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>platform-id</tag>
         <tag>接口</tag>
+        <tag>platform-id</tag>
         <tag>显存</tag>
         <tag>显示器</tag>
       </tags>
@@ -679,8 +679,8 @@
     <url>%2FClover-Patched-Desktop-AppleHDA-Realtek-ALC-Audio.html</url>
     <content type="text"><![CDATA[教程 使用 CloverALC 给 AppleHDA 打补丁， 适用于台式机原生支持 AppleHDA使用 Clover 为Realtek ALC芯片打补丁，这种方法可以启用macOS AppleHDA 板载音频，无论是否带有HDMI和DP音频。 该脚本添加了编解码器特定的布局和平台文件，并将二进制补丁和引脚配置数据注入到本地安装的 AppleHDA.kext 。版本: audio_cloverALC-1x0简单: .command命令, 请看 C.安装Bash: .sh命令, 请看 D. 终端更新列表9-26-17支持10.13, 支持ALC269/ALC283支持PikeralphaALC弃用的12-14-15audio_pikeralpha-110 (Clover版本的Piker Aplha AppleHDA8Series.sh)11-8-15Skylake/100系统更新，加入ALC1150/Audio ID: 37-19-15ALC283更新6-15-1510.11 - El Capitan Realtek ALC AppleHDA.kext 初始支持A. 需求macOS/Clover_v2696及以后版本10.13/High Sierra, 关闭 SIP, 挂载 EFI10.12/Sierra, 关闭 SIP, 挂载 EFI10.11/El Capitan, 设置 boot flag: rootless=010.10/Yosemite, 设置 boot flag: kext-dev-mode=110.9/Mavericks10.8/Mountain Lionon原生的、未修改的 AppleHDA.kextNeed native?支持Realtek板载的音频编解码器Unknown codec?B. Realtek ALCxxx (验证过的编解码器和音频ID)支持的编解码器 (* 不支持 audio_pikeralpha-110)88588788888989289811501220支持的音频ID音频ID: 1支持 885, 887, 888, 889, 892, 898, 1150, 1220Realtek ALC audio (默认, 1/2/3/5/6 主板音频端口)音频ID: 2支持 887, 888, 889, 892, 898, 1150, 1220Realtek ALC/5.1声道 (3主板音频端口，2进/1出变成3出)音频ID: 3支持 887, 888, 889, 892, 898, 1150带有Realtek ALC音频的HD3000 / HD4000 HDMI音频C. 安装通过 Clover 为 AppleHDA 打补丁下载 audio_cloverALC-1x0.command双击: audio_cloverALC-1x0.commandPassword:Confirm Codec ALCxxx: (885, 887, 888, 889, 892, 898, 1150, 1220 only)Clover/Legacy: answer y to Confirm Clover Legacy Install (y/n)Clover Audio ID Injection (y/n):Use Audio ID: x (y/n):Optional: Terminal/Terminal Saved Output重启电脑验证ALC板载音频系统偏好设置/声音/输出/选择音频设备D. 终端通过 Clover 为 AppleHDA 打补丁下载 audio_cloverALC-1x0.sh打开终端1./audio_cloverALC-1x0....sh其它步骤同 C.E. 更多的信息DetailsOnboard Audio SolutionsRequirements - Supported/UnsupportedNotesGuidesToolsProblem ReportingTerminal Saved OutputClover/EFIClover/LegacyCreditTHe KiNG, bcc9, RevoGirl, PikeRAlpha, SJ_UnderWater, RehabMan, TimeWalker75a, lisai9093, abxitetoleda https://github.com/toleda/audio_cloverALC 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
       <tags>
-        <tag>Clover</tag>
         <tag>AppleHDA</tag>
+        <tag>Clover</tag>
       </tags>
   </entry>
   <entry>
@@ -974,11 +974,11 @@
       </categories>
       <tags>
         <tag>Lilu</tag>
-        <tag>Plugins</tag>
         <tag>10.12</tag>
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>Plugins</tag>
         <tag>常见问题</tag>
         <tag>Clover</tag>
         <tag>platform-id</tag>
@@ -1078,9 +1078,9 @@
       <tags>
         <tag>10.13</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>DB8</tag>
         <tag>17A358a</tag>
-        <tag>镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1107,8 +1107,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>下载</tag>
-        <tag>镜像</tag>
         <tag>DB7</tag>
+        <tag>镜像</tag>
       </tags>
   </entry>
   <entry>
@@ -1179,8 +1179,8 @@
         <tag>Sierra</tag>
         <tag>10.12.6</tag>
         <tag>镜像</tag>
-        <tag>安装</tag>
         <tag>dmg</tag>
+        <tag>安装</tag>
       </tags>
   </entry>
   <entry>
