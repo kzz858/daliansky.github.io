@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
+    
+    <lastmod>2019-10-25T08:40:26.285Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
     
     <lastmod>2019-10-24T01:18:11.529Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://blog.daliansky.net/OpenCore-BootLoader.html</loc>
     
     <lastmod>2019-10-08T05:48:53.555Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Mojave-Hardware-Support-List.html</loc>
-    
-    <lastmod>2019-09-23T04:14:08.741Z</lastmod>
     
   </url>
   
@@ -401,14 +401,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/categories/index.html</loc>
+    <loc>https://blog.daliansky.net/about/index.html</loc>
     
     <lastmod>2019-07-09T04:02:30.650Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/about/index.html</loc>
+    <loc>https://blog.daliansky.net/categories/index.html</loc>
     
     <lastmod>2019-07-09T04:02:30.650Z</lastmod>
     
