@@ -9,10 +9,10 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
-        <tag>下载</tag>
         <tag>Catalina</tag>
         <tag>10.15</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>19A583</tag>
       </tags>
@@ -39,9 +39,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
-        <tag>下载</tag>
         <tag>Mojave</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.14.6</tag>
         <tag>18G84</tag>
@@ -71,9 +71,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
-        <tag>下载</tag>
         <tag>Mojave</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.14.5</tag>
         <tag>18F132</tag>
@@ -88,9 +88,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
-        <tag>下载</tag>
         <tag>Mojave</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.14.4</tag>
         <tag>1.8e+227</tag>
@@ -134,9 +134,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
-        <tag>下载</tag>
         <tag>Mojave</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.14.3</tag>
         <tag>18D42</tag>
@@ -145,7 +145,7 @@
   <entry>
     <title><![CDATA[Slide值获取及计算]]></title>
     <url>%2FSlide-value-acquisition-and-calculation.html</url>
-    <content type="text"><![CDATA[Slide值获取及计算用啰嗦模式进系统，拍照留意错误信息Error allocating 0x0x116F6 pages at 0x00000000093eb000 alloc type 2 注意0x116F6，每个人的数值估计都不一样。通过CLOVER引导主界面，进入UEFI Shell 64界面，输入memmap -b，在图中找到（Type列的值是Available，Pages列的值大于等于0x116F6，Start列的值比10000000大）一般用第10行的数值TypeStartEnd# PagesAttributes……………Available00000000 1000B00000000000 5F04FFFF00000000 0004F04500000000 0000000F……………用公式：Start / 200000 + 1 计算出Slide值：1000B000 / 200000 = 80（忽略小数点后数字），80 + 1 = 81，转换成10进制在线转换，显示为129boot args添加：slide=129BIOS更新后可能需要重新计算该值]]></content>
+    <content type="text"><![CDATA[Slide值获取及计算用啰嗦模式进系统，拍照留意错误信息Error allocating 0x0x116F6 pages at 0x00000000093eb000 alloc type 2 注意0x116F6，每个人的数值估计都不一样。通过CLOVER引导主界面，进入UEFI Shell 64界面，输入memmap -b，在图中找到（Type列的值是Available，Pages列的值大于等于0x116F6，Start列的值比10000000大）一般用第10行的数值TypeStartEnd# PagesAttributes……………Available00000000 1000B00000000000 5F04FFFF00000000 0004F04500000000 0000000F……………用公式：Start / 200000 + 1 计算出Slide值：1000B000 / 200000 = 80（忽略小数点后数字），80 + 1 = 81(16进制)，转换成10进制，显示为129。进制在线转换boot args添加：slide=129BIOS更新后可能需要重新计算该值]]></content>
       <categories>
         <category>教程</category>
       </categories>
@@ -207,9 +207,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
-        <tag>下载</tag>
         <tag>Mojave</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.14.2</tag>
         <tag>18C54</tag>
@@ -241,9 +241,9 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
-        <tag>下载</tag>
         <tag>Mojave</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.14.1</tag>
         <tag>18B75</tag>
@@ -273,10 +273,10 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
-        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>10.14</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>18A391</tag>
       </tags>
@@ -321,10 +321,10 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>镜像</tag>
-        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>10.14</tag>
+        <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>17A389</tag>
       </tags>
@@ -383,8 +383,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G2112</tag>
@@ -400,8 +400,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G65</tag>
@@ -417,8 +417,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.5</tag>
         <tag>17F77</tag>
@@ -488,8 +488,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.4</tag>
         <tag>1.7e+200</tag>
@@ -519,8 +519,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -578,8 +578,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -679,8 +679,8 @@
     <url>%2FClover-Patched-Desktop-AppleHDA-Realtek-ALC-Audio.html</url>
     <content type="text"><![CDATA[教程 使用 CloverALC 给 AppleHDA 打补丁， 适用于台式机原生支持 AppleHDA使用 Clover 为Realtek ALC芯片打补丁，这种方法可以启用macOS AppleHDA 板载音频，无论是否带有HDMI和DP音频。 该脚本添加了编解码器特定的布局和平台文件，并将二进制补丁和引脚配置数据注入到本地安装的 AppleHDA.kext 。版本: audio_cloverALC-1x0简单: .command命令, 请看 C.安装Bash: .sh命令, 请看 D. 终端更新列表9-26-17支持10.13, 支持ALC269/ALC283支持PikeralphaALC弃用的12-14-15audio_pikeralpha-110 (Clover版本的Piker Aplha AppleHDA8Series.sh)11-8-15Skylake/100系统更新，加入ALC1150/Audio ID: 37-19-15ALC283更新6-15-1510.11 - El Capitan Realtek ALC AppleHDA.kext 初始支持A. 需求macOS/Clover_v2696及以后版本10.13/High Sierra, 关闭 SIP, 挂载 EFI10.12/Sierra, 关闭 SIP, 挂载 EFI10.11/El Capitan, 设置 boot flag: rootless=010.10/Yosemite, 设置 boot flag: kext-dev-mode=110.9/Mavericks10.8/Mountain Lionon原生的、未修改的 AppleHDA.kextNeed native?支持Realtek板载的音频编解码器Unknown codec?B. Realtek ALCxxx (验证过的编解码器和音频ID)支持的编解码器 (* 不支持 audio_pikeralpha-110)88588788888989289811501220支持的音频ID音频ID: 1支持 885, 887, 888, 889, 892, 898, 1150, 1220Realtek ALC audio (默认, 1/2/3/5/6 主板音频端口)音频ID: 2支持 887, 888, 889, 892, 898, 1150, 1220Realtek ALC/5.1声道 (3主板音频端口，2进/1出变成3出)音频ID: 3支持 887, 888, 889, 892, 898, 1150带有Realtek ALC音频的HD3000 / HD4000 HDMI音频C. 安装通过 Clover 为 AppleHDA 打补丁下载 audio_cloverALC-1x0.command双击: audio_cloverALC-1x0.commandPassword:Confirm Codec ALCxxx: (885, 887, 888, 889, 892, 898, 1150, 1220 only)Clover/Legacy: answer y to Confirm Clover Legacy Install (y/n)Clover Audio ID Injection (y/n):Use Audio ID: x (y/n):Optional: Terminal/Terminal Saved Output重启电脑验证ALC板载音频系统偏好设置/声音/输出/选择音频设备D. 终端通过 Clover 为 AppleHDA 打补丁下载 audio_cloverALC-1x0.sh打开终端1./audio_cloverALC-1x0....sh其它步骤同 C.E. 更多的信息DetailsOnboard Audio SolutionsRequirements - Supported/UnsupportedNotesGuidesToolsProblem ReportingTerminal Saved OutputClover/EFIClover/LegacyCreditTHe KiNG, bcc9, RevoGirl, PikeRAlpha, SJ_UnderWater, RehabMan, TimeWalker75a, lisai9093, abxitetoleda https://github.com/toleda/audio_cloverALC 关于打赏您的支持就是我更新的动力！如果不希望看到博主停更的话，请点击下方的 打赏 支持一下，有钱的捧个钱场，没钱的捧个人场，谢谢大家！]]></content>
       <tags>
-        <tag>AppleHDA</tag>
         <tag>Clover</tag>
+        <tag>AppleHDA</tag>
       </tags>
   </entry>
   <entry>
@@ -693,8 +693,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>10.13.1</tag>
         <tag>17B48</tag>
@@ -812,8 +812,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>17A405</tag>
       </tags>
@@ -864,8 +864,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
       </tags>
   </entry>
@@ -892,8 +892,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>GM</tag>
         <tag>17A362a</tag>
@@ -973,11 +973,11 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>Lilu</tag>
         <tag>10.12</tag>
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>Lilu</tag>
         <tag>Plugins</tag>
         <tag>常见问题</tag>
         <tag>Clover</tag>
@@ -1014,8 +1014,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>DB9</tag>
         <tag>17A360a</tag>
         <tag>dmg</tag>
@@ -1029,13 +1029,13 @@
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>10.12.6</tag>
         <tag>Mojave</tag>
         <tag>10.14</tag>
         <tag>Catalina</tag>
         <tag>10.15</tag>
         <tag>Download</tag>
+        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -1077,10 +1077,10 @@
       </categories>
       <tags>
         <tag>10.13</tag>
+        <tag>下载</tag>
         <tag>DB8</tag>
         <tag>17A358a</tag>
         <tag>镜像</tag>
-        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -1106,8 +1106,8 @@
       </categories>
       <tags>
         <tag>10.13</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>DB7</tag>
       </tags>
   </entry>
@@ -1177,8 +1177,8 @@
       </categories>
       <tags>
         <tag>Sierra</tag>
-        <tag>镜像</tag>
         <tag>10.12.6</tag>
+        <tag>镜像</tag>
         <tag>安装</tag>
         <tag>dmg</tag>
       </tags>
@@ -1207,8 +1207,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>镜像</tag>
         <tag>下载</tag>
+        <tag>镜像</tag>
         <tag>dmg</tag>
         <tag>17A344b</tag>
       </tags>
