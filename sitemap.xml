@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
+    
+    <lastmod>2019-11-01T07:48:41.115Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
+    
+    <lastmod>2019-11-01T07:48:05.082Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
+    
+    <lastmod>2019-11-01T07:29:58.399Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</loc>
     
     <lastmod>2019-10-30T07:20:35.132Z</lastmod>
@@ -47,20 +68,6 @@
     <loc>https://blog.daliansky.net/OpenCore-BootLoader.html</loc>
     
     <lastmod>2019-10-08T05:48:53.555Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
-    
-    <lastmod>2019-09-04T05:18:53.582Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
-    
-    <lastmod>2019-09-04T05:18:51.022Z</lastmod>
     
   </url>
   
@@ -233,13 +240,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.658Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html</loc>
     
     <lastmod>2019-09-04T00:05:20.658Z</lastmod>
@@ -401,14 +401,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/categories/index.html</loc>
+    <loc>https://blog.daliansky.net/about/index.html</loc>
     
     <lastmod>2019-07-09T04:02:30.650Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/about/index.html</loc>
+    <loc>https://blog.daliansky.net/categories/index.html</loc>
     
     <lastmod>2019-07-09T04:02:30.650Z</lastmod>
     
