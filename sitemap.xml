@@ -2,6 +2,139 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html</loc>
+    
+    <lastmod>2019-11-05T06:15:21.027Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.1-(17B48)-official-version-and-Clover-4278-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:15:03.211Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.2-(17C88)-official-version-and-Clover-4333-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:14:52.853Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.3-(17D47)-official-version-and-Clover-4391-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:14:42.434Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.4-17E199-Release-Version-and-Clover-4418-Original-Image.html</loc>
+    
+    <lastmod>2019-11-05T06:14:31.618Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.5-17F77-Release-Version-with-Clover-4512-original-mirror.html</loc>
+    
+    <lastmod>2019-11-05T06:14:12.015Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html</loc>
+    
+    <lastmod>2019-11-05T06:14:02.400Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G2112-Release-Special-with-Clover-4606-original-mirror.html</loc>
+    
+    <lastmod>2019-11-05T06:13:51.645Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:12:31.780Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:12:18.432Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:12:04.646Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:11:49.512Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:11:36.450Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:11:22.418Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html</loc>
+    
+    <lastmod>2019-11-05T06:11:08.714Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A391-official-version-with-Clover-4674-original-image.html</loc>
+    
+    <lastmod>2019-11-05T06:10:54.323Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/OpenCore-BootLoader.html</loc>
+    
+    <lastmod>2019-11-04T01:49:52.051Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
+    
+    <lastmod>2019-11-04T01:49:52.050Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</loc>
+    
+    <lastmod>2019-11-04T01:49:52.049Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html</loc>
     
     <lastmod>2019-11-01T07:48:41.115Z</lastmod>
@@ -12,20 +145,6 @@
     <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
     
     <lastmod>2019-11-01T07:48:05.082Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
-    
-    <lastmod>2019-11-01T07:29:58.399Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</loc>
-    
-    <lastmod>2019-10-30T07:20:35.132Z</lastmod>
     
   </url>
   
@@ -51,27 +170,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html</loc>
-    
-    <lastmod>2019-10-12T01:21:49.691Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html</loc>
-    
-    <lastmod>2019-10-08T05:52:05.266Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/OpenCore-BootLoader.html</loc>
-    
-    <lastmod>2019-10-08T05:48:53.555Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html</loc>
     
     <lastmod>2019-09-04T00:05:20.738Z</lastmod>
@@ -79,21 +177,7 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G2112-Release-Special-with-Clover-4606-original-mirror.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.738Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/translate-guide-intel-igpu-hdmi-dp-audio-sandy-ivy-haswell-broadwell-skylake-kabylake.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.738Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.4-17E199-Release-Version-and-Clover-4418-Original-Image.html</loc>
     
     <lastmod>2019-09-04T00:05:20.738Z</lastmod>
     
@@ -149,13 +233,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A391-official-version-with-Clover-4674-original-image.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.692Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html</loc>
     
     <lastmod>2019-09-04T00:05:20.661Z</lastmod>
@@ -184,13 +261,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.1-(17B48)-official-version-and-Clover-4278-original-image.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.660Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/XiaoMiPro-notebook-Installation-10.13-readily-remember-and-share-EFI.html</loc>
     
     <lastmod>2019-09-04T00:05:20.659Z</lastmod>
@@ -205,27 +275,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.3-(17D47)-official-version-and-Clover-4391-original-image.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.659Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.659Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.659Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html</loc>
     
     <lastmod>2019-09-04T00:05:20.658Z</lastmod>
@@ -234,13 +283,6 @@
   
   <url>
     <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.658Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html</loc>
     
     <lastmod>2019-09-04T00:05:20.658Z</lastmod>
     
@@ -296,27 +338,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.564Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.564Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.564Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Scan-code-support-QQ-group-upgrade.html</loc>
     
     <lastmod>2019-09-04T00:05:20.564Z</lastmod>
@@ -325,27 +346,6 @@
   
   <url>
     <loc>https://blog.daliansky.net/CoffeeLake-UHD-630-black-screen-direct-bright-screen-and-correct-adjustment-of-brightness-adjustment.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.564Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.564Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.5-17F77-Release-Version-with-Clover-4512-original-mirror.html</loc>
-    
-    <lastmod>2019-09-04T00:05:20.564Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-High-Sierra-10.13.2-(17C88)-official-version-and-Clover-4333-original-image.html</loc>
     
     <lastmod>2019-09-04T00:05:20.564Z</lastmod>
     
