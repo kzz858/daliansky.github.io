@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
+    
+    <lastmod>2019-11-21T07:19:30.749Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</loc>
     
     <lastmod>2019-11-21T05:47:09.119Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
     
     <lastmod>2019-11-21T00:59:39.482Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
-    
-    <lastmod>2019-11-14T01:00:32.422Z</lastmod>
     
   </url>
   
@@ -415,14 +415,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/about/index.html</loc>
+    <loc>https://blog.daliansky.net/categories/index.html</loc>
     
     <lastmod>2019-07-09T04:02:30.650Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/categories/index.html</loc>
+    <loc>https://blog.daliansky.net/about/index.html</loc>
     
     <lastmod>2019-07-09T04:02:30.650Z</lastmod>
     
