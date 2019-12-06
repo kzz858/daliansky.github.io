@@ -193,8 +193,8 @@
       </categories>
       <tags>
         <tag>教程</tag>
-        <tag>安装</tag>
         <tag>macOS</tag>
+        <tag>安装</tag>
         <tag>小新air</tag>
         <tag>2018</tag>
         <tag>联想</tag>
@@ -306,12 +306,12 @@
         <category>教程</category>
       </categories>
       <tags>
+        <tag>USB</tag>
         <tag>教程</tag>
         <tag>FB</tag>
         <tag>patcher</tag>
         <tag>framebuffer</tag>
         <tag>帧缓冲</tag>
-        <tag>USB</tag>
         <tag>audio</tag>
         <tag>VRAM</tag>
       </tags>
@@ -488,8 +488,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>AppleALC</tag>
+        <tag>教程</tag>
         <tag>AppleHDA</tag>
         <tag>HDMI</tag>
         <tag>Audio</tag>
@@ -610,8 +610,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>接口</tag>
         <tag>platform-id</tag>
+        <tag>接口</tag>
         <tag>显存</tag>
         <tag>显示器</tag>
       </tags>
@@ -625,8 +625,8 @@
       </categories>
       <tags>
         <tag>教程</tag>
-        <tag>安装</tag>
         <tag>macOS</tag>
+        <tag>安装</tag>
         <tag>小米Pro</tag>
         <tag>XiaoMi-Pro</tag>
         <tag>XiaoMiPro</tag>
